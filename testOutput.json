@@ -1,0 +1,1205 @@
+{
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3347.0 Safari/537.36",
+  "lighthouseVersion": "2.9.1",
+  "generatedTime": "2018-02-14T19:33:39.584Z",
+  "initialUrl": "https://www.audible.com",
+  "url": "https://www.audible.com/",
+  "runWarnings": [],
+  "audits": {
+    "audible-image-size-audit": {
+      "score": 100,
+      "displayValue": "[object Object]",
+      "rawValue": {
+        "https://m.media-amazon.com/images/G/01/audibleweb/arya/navigation/audible_logo_inverse._V517446980_.svg": {
+          "url": "https://m.media-amazon.com/images/G/01/audibleweb/arya/navigation/audible_logo_inverse._V517446980_.svg",
+          "resourceSize": 24794,
+          "startTime": 41283.372158,
+          "endTime": 41283.482068,
+          "responseReceivedTime": 41283.388388,
+          "mimeType": "image/svg+xml"
+        },
+        "https://m.media-amazon.com/images/G/01/Audible/en_US/images/creative/A4-190_DRTV_LP_DW_Hero_Arya_2.jpg": {
+          "url": "https://m.media-amazon.com/images/G/01/Audible/en_US/images/creative/A4-190_DRTV_LP_DW_Hero_Arya_2.jpg",
+          "resourceSize": 134036,
+          "startTime": 41283.372311,
+          "endTime": 41283.499423,
+          "responseReceivedTime": 41283.403185999996,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/G/01/Audible/en_US/images/creative/landing/AMZ_Logo_HEX_FFF._CB1507822670_.svg": {
+          "url": "https://m.media-amazon.com/images/G/01/Audible/en_US/images/creative/landing/AMZ_Logo_HEX_FFF._CB1507822670_.svg",
+          "resourceSize": 9436,
+          "startTime": 41283.372433,
+          "endTime": 41283.502379,
+          "responseReceivedTime": 41283.408793999995,
+          "mimeType": "image/svg+xml"
+        },
+        "https://m.media-amazon.com/images/G/01/Audible/en_US/images/creative/landing/A4-181_PresidentsDay_ANON_SkinnyBanner_DT_V2.jpg": {
+          "url": "https://m.media-amazon.com/images/G/01/Audible/en_US/images/creative/landing/A4-181_PresidentsDay_ANON_SkinnyBanner_DT_V2.jpg",
+          "resourceSize": 78194,
+          "startTime": 41283.372549,
+          "endTime": 41283.506365,
+          "responseReceivedTime": 41283.411185,
+          "mimeType": "image/jpeg"
+        },
+        "https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/mask._V298585148_.png": {
+          "url": "https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/mask._V298585148_.png",
+          "resourceSize": 83,
+          "startTime": 41283.378843,
+          "endTime": 41283.497388,
+          "responseReceivedTime": 41283.390989,
+          "mimeType": "image/png"
+        },
+        "https://m.media-amazon.com/images/I/61gCFdTy4zL._SL5_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/61gCFdTy4zL._SL5_.jpg",
+          "resourceSize": 667,
+          "startTime": 41283.588613,
+          "endTime": 41283.658911,
+          "responseReceivedTime": 41283.610455,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/G/01/audibleweb/brickcity/1.0/player/spinner/spinner-black._V533714622_.svg": {
+          "url": "https://m.media-amazon.com/images/G/01/audibleweb/brickcity/1.0/player/spinner/spinner-black._V533714622_.svg",
+          "resourceSize": 938,
+          "startTime": 41283.588915,
+          "endTime": 41283.660974,
+          "responseReceivedTime": 41283.622347,
+          "mimeType": "image/svg+xml"
+        },
+        "https://m.media-amazon.com/images/I/51NNq3rPUlL._SL5_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/51NNq3rPUlL._SL5_.jpg",
+          "resourceSize": 652,
+          "startTime": 41283.589175,
+          "endTime": 41283.660068,
+          "responseReceivedTime": 41283.617872,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/61HhcKV0ezL._SL5_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/61HhcKV0ezL._SL5_.jpg",
+          "resourceSize": 649,
+          "startTime": 41283.589424,
+          "endTime": 41283.664609,
+          "responseReceivedTime": 41283.622856999995,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/51+aYmtqkHL._SL5_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/51+aYmtqkHL._SL5_.jpg",
+          "resourceSize": 660,
+          "startTime": 41283.589669,
+          "endTime": 41283.673666,
+          "responseReceivedTime": 41283.639392,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/61dqGGKJYnL._SL5_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/61dqGGKJYnL._SL5_.jpg",
+          "resourceSize": 662,
+          "startTime": 41283.593698,
+          "endTime": 41283.674346,
+          "responseReceivedTime": 41283.640065,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/510rNw0ZTaL._SL5_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/510rNw0ZTaL._SL5_.jpg",
+          "resourceSize": 661,
+          "startTime": 41283.625866,
+          "endTime": 41283.675156,
+          "responseReceivedTime": 41283.640489000005,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/51gzHAvsZAL._SL5_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/51gzHAvsZAL._SL5_.jpg",
+          "resourceSize": 664,
+          "startTime": 41283.626078,
+          "endTime": 41283.68156,
+          "responseReceivedTime": 41283.644378000005,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/51mHKPwvqqL._SL5_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/51mHKPwvqqL._SL5_.jpg",
+          "resourceSize": 662,
+          "startTime": 41283.626269,
+          "endTime": 41283.676635,
+          "responseReceivedTime": 41283.64133,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/61j+AB3GUoL._SL5_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/61j+AB3GUoL._SL5_.jpg",
+          "resourceSize": 668,
+          "startTime": 41283.626481,
+          "endTime": 41283.680488,
+          "responseReceivedTime": 41283.643175,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/51rjDnBi1iL._SL5_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/51rjDnBi1iL._SL5_.jpg",
+          "resourceSize": 670,
+          "startTime": 41283.657796,
+          "endTime": 41283.746544,
+          "responseReceivedTime": 41283.674891,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/513KDS9qRjL._SL5_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/513KDS9qRjL._SL5_.jpg",
+          "resourceSize": 675,
+          "startTime": 41283.658225,
+          "endTime": 41283.747328,
+          "responseReceivedTime": 41283.675395,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/61VMbkvRXUL._SL5_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/61VMbkvRXUL._SL5_.jpg",
+          "resourceSize": 673,
+          "startTime": 41283.661353,
+          "endTime": 41283.748453,
+          "responseReceivedTime": 41283.677134000005,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/617imZ75zSL._SL5_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/617imZ75zSL._SL5_.jpg",
+          "resourceSize": 657,
+          "startTime": 41283.66179,
+          "endTime": 41283.749988,
+          "responseReceivedTime": 41283.677423,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/51e0sCxGyML._SL5_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/51e0sCxGyML._SL5_.jpg",
+          "resourceSize": 666,
+          "startTime": 41283.735862,
+          "endTime": 41283.773534,
+          "responseReceivedTime": 41283.752789,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/614Ca+c+1cL._SL5_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/614Ca+c+1cL._SL5_.jpg",
+          "resourceSize": 672,
+          "startTime": 41283.736345,
+          "endTime": 41283.772473,
+          "responseReceivedTime": 41283.749249,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/51iML7T0PvL._SL5_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/51iML7T0PvL._SL5_.jpg",
+          "resourceSize": 667,
+          "startTime": 41283.737725,
+          "endTime": 41283.77523,
+          "responseReceivedTime": 41283.756903,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/51PuVM3GW0L._SL5_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/51PuVM3GW0L._SL5_.jpg",
+          "resourceSize": 648,
+          "startTime": 41283.738165,
+          "endTime": 41283.774494,
+          "responseReceivedTime": 41283.756048,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/41CPHWAjfFL._SL5_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/41CPHWAjfFL._SL5_.jpg",
+          "resourceSize": 639,
+          "startTime": 41283.770435,
+          "endTime": 41283.790123,
+          "responseReceivedTime": 41283.785089,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/61or1DjLaaL._SL5_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/61or1DjLaaL._SL5_.jpg",
+          "resourceSize": 683,
+          "startTime": 41283.771218,
+          "endTime": 41283.804204,
+          "responseReceivedTime": 41283.791519,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/51+1PNQIB+L._SL5_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/51+1PNQIB+L._SL5_.jpg",
+          "resourceSize": 670,
+          "startTime": 41283.772004,
+          "endTime": 41283.790969,
+          "responseReceivedTime": 41283.786911999996,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/51w5iGmp10L._SL5_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/51w5iGmp10L._SL5_.jpg",
+          "resourceSize": 672,
+          "startTime": 41283.772396,
+          "endTime": 41283.796741,
+          "responseReceivedTime": 41283.788774,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/51vtSrohd+L._SL5_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/51vtSrohd+L._SL5_.jpg",
+          "resourceSize": 656,
+          "startTime": 41283.780595,
+          "endTime": 41283.810471,
+          "responseReceivedTime": 41283.801332999996,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/41bofJdNYIL._SL5_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/41bofJdNYIL._SL5_.jpg",
+          "resourceSize": 647,
+          "startTime": 41283.781599,
+          "endTime": 41283.805787,
+          "responseReceivedTime": 41283.794695000004,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/51M+yzHzkrL._SL5_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/51M+yzHzkrL._SL5_.jpg",
+          "resourceSize": 661,
+          "startTime": 41283.786333,
+          "endTime": 41283.811366,
+          "responseReceivedTime": 41283.803051999996,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/61PCJtjKhLL._SL5_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/61PCJtjKhLL._SL5_.jpg",
+          "resourceSize": 676,
+          "startTime": 41283.788153,
+          "endTime": 41283.81601,
+          "responseReceivedTime": 41283.805949,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/51T3JisApPL._SL5_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/51T3JisApPL._SL5_.jpg",
+          "resourceSize": 677,
+          "startTime": 41283.791001,
+          "endTime": 41283.816921,
+          "responseReceivedTime": 41283.807953999996,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/61EEVpMPA9L._SL5_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/61EEVpMPA9L._SL5_.jpg",
+          "resourceSize": 674,
+          "startTime": 41283.793279,
+          "endTime": 41283.818179,
+          "responseReceivedTime": 41283.809578,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/61OqZ0QLRUL._SL5_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/61OqZ0QLRUL._SL5_.jpg",
+          "resourceSize": 664,
+          "startTime": 41283.800804,
+          "endTime": 41283.838691,
+          "responseReceivedTime": 41283.818972,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/61s88UvdGTL._SL5_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/61s88UvdGTL._SL5_.jpg",
+          "resourceSize": 669,
+          "startTime": 41283.803668,
+          "endTime": 41283.83959,
+          "responseReceivedTime": 41283.821266,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/51R-LuN-ddL._SL5_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/51R-LuN-ddL._SL5_.jpg",
+          "resourceSize": 653,
+          "startTime": 41283.806746,
+          "endTime": 41283.840548,
+          "responseReceivedTime": 41283.822732,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/51+AE8W600L._SL5_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/51+AE8W600L._SL5_.jpg",
+          "resourceSize": 652,
+          "startTime": 41283.808345,
+          "endTime": 41283.859195,
+          "responseReceivedTime": 41283.827874999995,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/61AJerKt4LL._SL5_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/61AJerKt4LL._SL5_.jpg",
+          "resourceSize": 660,
+          "startTime": 41283.809943,
+          "endTime": 41283.858443,
+          "responseReceivedTime": 41283.827469,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/51fQHwWYBML._SL5_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/51fQHwWYBML._SL5_.jpg",
+          "resourceSize": 667,
+          "startTime": 41283.811193,
+          "endTime": 41283.843875,
+          "responseReceivedTime": 41283.825305,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/41eUFUanwxL._SL5_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/41eUFUanwxL._SL5_.jpg",
+          "resourceSize": 652,
+          "startTime": 41283.819948,
+          "endTime": 41283.860292,
+          "responseReceivedTime": 41283.833161999995,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/61MQ61ryYGL._SL5_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/61MQ61ryYGL._SL5_.jpg",
+          "resourceSize": 674,
+          "startTime": 41283.822302,
+          "endTime": 41283.861938,
+          "responseReceivedTime": 41283.834724,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/41wCJBbJymL._SL5_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/41wCJBbJymL._SL5_.jpg",
+          "resourceSize": 667,
+          "startTime": 41283.823884,
+          "endTime": 41283.863952,
+          "responseReceivedTime": 41283.839459999996,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/51uNAJ-npGL._SL5_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/51uNAJ-npGL._SL5_.jpg",
+          "resourceSize": 665,
+          "startTime": 41283.828198,
+          "endTime": 41283.86655,
+          "responseReceivedTime": 41283.84644,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/613j3-3vOPL._SL5_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/613j3-3vOPL._SL5_.jpg",
+          "resourceSize": 659,
+          "startTime": 41283.831515,
+          "endTime": 41283.865569,
+          "responseReceivedTime": 41283.844682999996,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/513ZupVDwWL._SL5_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/513ZupVDwWL._SL5_.jpg",
+          "resourceSize": 660,
+          "startTime": 41283.831746,
+          "endTime": 41283.868575,
+          "responseReceivedTime": 41283.85001,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/61mJhMWAq8L._SL5_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/61mJhMWAq8L._SL5_.jpg",
+          "resourceSize": 681,
+          "startTime": 41283.833903,
+          "endTime": 41283.869292,
+          "responseReceivedTime": 41283.851088999996,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/51lesmncSWL._SL5_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/51lesmncSWL._SL5_.jpg",
+          "resourceSize": 656,
+          "startTime": 41283.835467,
+          "endTime": 41283.867802,
+          "responseReceivedTime": 41283.848547999994,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/G/01/Audible/en_US/images/creative/landing/ANON_Update1201_Icon_Mobility._CB1512161420_.svg": {
+          "url": "https://m.media-amazon.com/images/G/01/Audible/en_US/images/creative/landing/ANON_Update1201_Icon_Mobility._CB1512161420_.svg",
+          "resourceSize": 6707,
+          "startTime": 41283.840595,
+          "endTime": 41283.870439,
+          "responseReceivedTime": 41283.854033,
+          "mimeType": "image/svg+xml"
+        },
+        "https://m.media-amazon.com/images/G/01/Audible/en_US/images/creative/landing/ANON_Update1201_icon_Selection._CB1512161420_.svg": {
+          "url": "https://m.media-amazon.com/images/G/01/Audible/en_US/images/creative/landing/ANON_Update1201_icon_Selection._CB1512161420_.svg",
+          "resourceSize": 3474,
+          "startTime": 41283.845968,
+          "endTime": 41283.874743,
+          "responseReceivedTime": 41283.863279000005,
+          "mimeType": "image/svg+xml"
+        },
+        "https://m.media-amazon.com/images/G/01/Audible/en_US/images/creative/landing/ANON_Update1201_icon_Protected._CB1512161420_.svg": {
+          "url": "https://m.media-amazon.com/images/G/01/Audible/en_US/images/creative/landing/ANON_Update1201_icon_Protected._CB1512161420_.svg",
+          "resourceSize": 2106,
+          "startTime": 41283.847899,
+          "endTime": 41283.877232,
+          "responseReceivedTime": 41283.865415,
+          "mimeType": "image/svg+xml"
+        },
+        "https://m.media-amazon.com/images/G/01/Audible/en_US/images/creative/landing/020_AryaAnon_icon_1_test._CB1507759313_.svg": {
+          "url": "https://m.media-amazon.com/images/G/01/Audible/en_US/images/creative/landing/020_AryaAnon_icon_1_test._CB1507759313_.svg",
+          "resourceSize": 813,
+          "startTime": 41283.857244,
+          "endTime": 41283.880741,
+          "responseReceivedTime": 41283.872011,
+          "mimeType": "image/svg+xml"
+        },
+        "https://m.media-amazon.com/images/G/01/Audible/en_US/images/creative/landing/020_AryaAnon_icon_2_text._CB1507767166_.svg": {
+          "url": "https://m.media-amazon.com/images/G/01/Audible/en_US/images/creative/landing/020_AryaAnon_icon_2_text._CB1507767166_.svg",
+          "resourceSize": 1244,
+          "startTime": 41283.857811,
+          "endTime": 41283.90033,
+          "responseReceivedTime": 41283.876201,
+          "mimeType": "image/svg+xml"
+        },
+        "https://m.media-amazon.com/images/G/01/Audible/en_US/images/creative/landing/020_AryaAnon_icon_3_text._CB1507767166_.svg": {
+          "url": "https://m.media-amazon.com/images/G/01/Audible/en_US/images/creative/landing/020_AryaAnon_icon_3_text._CB1507767166_.svg",
+          "resourceSize": 1470,
+          "startTime": 41283.858116,
+          "endTime": 41283.89667,
+          "responseReceivedTime": 41283.873935,
+          "mimeType": "image/svg+xml"
+        },
+        "https://m.media-amazon.com/images/G/01/Audible/en_US/images/creative/landing/020_AryaAnon_icon_4_text._CB1507767166_.svg": {
+          "url": "https://m.media-amazon.com/images/G/01/Audible/en_US/images/creative/landing/020_AryaAnon_icon_4_text._CB1507767166_.svg",
+          "resourceSize": 898,
+          "startTime": 41283.858414,
+          "endTime": 41283.903295,
+          "responseReceivedTime": 41283.888835000005,
+          "mimeType": "image/svg+xml"
+        },
+        "https://m.media-amazon.com/images/G/01/audibleweb/brickcity/1.0/popover_caret_release_1-0-18._V519763868_.svg": {
+          "url": "https://m.media-amazon.com/images/G/01/audibleweb/brickcity/1.0/popover_caret_release_1-0-18._V519763868_.svg",
+          "resourceSize": 1174,
+          "startTime": 41284.246635,
+          "endTime": 41284.3137,
+          "responseReceivedTime": 41284.270260000005,
+          "mimeType": "image/svg+xml"
+        },
+        "https://m.media-amazon.com/images/I/61gCFdTy4zL._SL150_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/61gCFdTy4zL._SL150_.jpg",
+          "resourceSize": 12014,
+          "startTime": 41284.275954,
+          "endTime": 41284.352707,
+          "responseReceivedTime": 41284.298512999994,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/51NNq3rPUlL._SL150_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/51NNq3rPUlL._SL150_.jpg",
+          "resourceSize": 7620,
+          "startTime": 41284.276481,
+          "endTime": 41284.353867,
+          "responseReceivedTime": 41284.301887,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/61HhcKV0ezL._SL150_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/61HhcKV0ezL._SL150_.jpg",
+          "resourceSize": 10337,
+          "startTime": 41284.276687,
+          "endTime": 41284.535635,
+          "responseReceivedTime": 41284.314518,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/51+aYmtqkHL._SL150_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/51+aYmtqkHL._SL150_.jpg",
+          "resourceSize": 8487,
+          "startTime": 41284.276866,
+          "endTime": 41284.534717,
+          "responseReceivedTime": 41284.313995,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/61dqGGKJYnL._SL150_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/61dqGGKJYnL._SL150_.jpg",
+          "resourceSize": 11755,
+          "startTime": 41284.277227,
+          "endTime": 41284.538303,
+          "responseReceivedTime": 41284.337948,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/510rNw0ZTaL._SL150_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/510rNw0ZTaL._SL150_.jpg",
+          "resourceSize": 7123,
+          "startTime": 41284.277407,
+          "endTime": 41284.537248,
+          "responseReceivedTime": 41284.337222,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/51gzHAvsZAL._SL150_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/51gzHAvsZAL._SL150_.jpg",
+          "resourceSize": 8188,
+          "startTime": 41284.301065,
+          "endTime": 41284.543449,
+          "responseReceivedTime": 41284.385592,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/51mHKPwvqqL._SL150_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/51mHKPwvqqL._SL150_.jpg",
+          "resourceSize": 10479,
+          "startTime": 41284.325518,
+          "endTime": 41284.54774,
+          "responseReceivedTime": 41284.396965,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/61j+AB3GUoL._SL150_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/61j+AB3GUoL._SL150_.jpg",
+          "resourceSize": 10286,
+          "startTime": 41284.362427,
+          "endTime": 41284.552421,
+          "responseReceivedTime": 41284.410317,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/51rjDnBi1iL._SL150_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/51rjDnBi1iL._SL150_.jpg",
+          "resourceSize": 9525,
+          "startTime": 41284.362834,
+          "endTime": 41284.550382,
+          "responseReceivedTime": 41284.407606,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/513KDS9qRjL._SL150_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/513KDS9qRjL._SL150_.jpg",
+          "resourceSize": 7250,
+          "startTime": 41284.378801,
+          "endTime": 41284.553409,
+          "responseReceivedTime": 41284.413898,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/61VMbkvRXUL._SL150_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/61VMbkvRXUL._SL150_.jpg",
+          "resourceSize": 10983,
+          "startTime": 41284.378964,
+          "endTime": 41284.555703,
+          "responseReceivedTime": 41284.416634,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/617imZ75zSL._SL150_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/617imZ75zSL._SL150_.jpg",
+          "resourceSize": 9734,
+          "startTime": 41284.395322,
+          "endTime": 41284.558434,
+          "responseReceivedTime": 41284.425553999994,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/51e0sCxGyML._SL150_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/51e0sCxGyML._SL150_.jpg",
+          "resourceSize": 8345,
+          "startTime": 41284.399305,
+          "endTime": 41284.556639,
+          "responseReceivedTime": 41284.42336,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/614Ca+c+1cL._SL150_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/614Ca+c+1cL._SL150_.jpg",
+          "resourceSize": 11039,
+          "startTime": 41284.409904,
+          "endTime": 41284.55952,
+          "responseReceivedTime": 41284.435806,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/51iML7T0PvL._SL150_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/51iML7T0PvL._SL150_.jpg",
+          "resourceSize": 8221,
+          "startTime": 41284.413162,
+          "endTime": 41284.560711,
+          "responseReceivedTime": 41284.43992,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/51PuVM3GW0L._SL150_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/51PuVM3GW0L._SL150_.jpg",
+          "resourceSize": 5763,
+          "startTime": 41284.422693,
+          "endTime": 41284.563023,
+          "responseReceivedTime": 41284.458666,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/41CPHWAjfFL._SL150_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/41CPHWAjfFL._SL150_.jpg",
+          "resourceSize": 6422,
+          "startTime": 41284.423134,
+          "endTime": 41284.561912,
+          "responseReceivedTime": 41284.454501,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/61or1DjLaaL._SL150_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/61or1DjLaaL._SL150_.jpg",
+          "resourceSize": 12661,
+          "startTime": 41284.433309,
+          "endTime": 41284.563869,
+          "responseReceivedTime": 41284.45983,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/51+1PNQIB+L._SL150_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/51+1PNQIB+L._SL150_.jpg",
+          "resourceSize": 10116,
+          "startTime": 41284.433881,
+          "endTime": 41284.565023,
+          "responseReceivedTime": 41284.460226999996,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/51w5iGmp10L._SL150_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/51w5iGmp10L._SL150_.jpg",
+          "resourceSize": 7540,
+          "startTime": 41284.439277,
+          "endTime": 41284.566378,
+          "responseReceivedTime": 41284.46883,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/51vtSrohd+L._SL150_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/51vtSrohd+L._SL150_.jpg",
+          "resourceSize": 10663,
+          "startTime": 41284.444288,
+          "endTime": 41284.567281,
+          "responseReceivedTime": 41284.469468999996,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/41bofJdNYIL._SL150_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/41bofJdNYIL._SL150_.jpg",
+          "resourceSize": 4692,
+          "startTime": 41284.455986,
+          "endTime": 41284.569002,
+          "responseReceivedTime": 41284.48398,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/51M+yzHzkrL._SL150_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/51M+yzHzkrL._SL150_.jpg",
+          "resourceSize": 7686,
+          "startTime": 41284.461557,
+          "endTime": 41284.570137,
+          "responseReceivedTime": 41284.487571000005,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/61PCJtjKhLL._SL150_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/61PCJtjKhLL._SL150_.jpg",
+          "resourceSize": 10181,
+          "startTime": 41284.464103,
+          "endTime": 41284.571218,
+          "responseReceivedTime": 41284.491021,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/51T3JisApPL._SL150_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/51T3JisApPL._SL150_.jpg",
+          "resourceSize": 8647,
+          "startTime": 41284.464792,
+          "endTime": 41284.572327,
+          "responseReceivedTime": 41284.493923,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/61EEVpMPA9L._SL150_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/61EEVpMPA9L._SL150_.jpg",
+          "resourceSize": 13123,
+          "startTime": 41284.474897,
+          "endTime": 41284.574814,
+          "responseReceivedTime": 41284.502094,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/61OqZ0QLRUL._SL150_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/61OqZ0QLRUL._SL150_.jpg",
+          "resourceSize": 14027,
+          "startTime": 41284.476207,
+          "endTime": 41284.573628,
+          "responseReceivedTime": 41284.499663,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/61s88UvdGTL._SL150_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/61s88UvdGTL._SL150_.jpg",
+          "resourceSize": 11085,
+          "startTime": 41284.487295,
+          "endTime": 41284.577953,
+          "responseReceivedTime": 41284.51217,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/51R-LuN-ddL._SL150_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/51R-LuN-ddL._SL150_.jpg",
+          "resourceSize": 7187,
+          "startTime": 41284.489931,
+          "endTime": 41284.575914,
+          "responseReceivedTime": 41284.510516999995,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/51+AE8W600L._SL150_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/51+AE8W600L._SL150_.jpg",
+          "resourceSize": 7290,
+          "startTime": 41284.493386,
+          "endTime": 41284.579872,
+          "responseReceivedTime": 41284.521788000005,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/61AJerKt4LL._SL150_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/61AJerKt4LL._SL150_.jpg",
+          "resourceSize": 10687,
+          "startTime": 41284.495408,
+          "endTime": 41284.578936,
+          "responseReceivedTime": 41284.518497000005,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/51fQHwWYBML._SL150_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/51fQHwWYBML._SL150_.jpg",
+          "resourceSize": 10180,
+          "startTime": 41284.501396,
+          "endTime": 41284.580861,
+          "responseReceivedTime": 41284.522322,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/41eUFUanwxL._SL150_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/41eUFUanwxL._SL150_.jpg",
+          "resourceSize": 5452,
+          "startTime": 41284.503747,
+          "endTime": 41284.583483,
+          "responseReceivedTime": 41284.527605,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/61MQ61ryYGL._SL150_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/61MQ61ryYGL._SL150_.jpg",
+          "resourceSize": 10987,
+          "startTime": 41284.517286,
+          "endTime": 41284.589821,
+          "responseReceivedTime": 41284.540669,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/41wCJBbJymL._SL150_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/41wCJBbJymL._SL150_.jpg",
+          "resourceSize": 5924,
+          "startTime": 41284.517692,
+          "endTime": 41284.590646,
+          "responseReceivedTime": 41284.541595,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/51uNAJ-npGL._SL150_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/51uNAJ-npGL._SL150_.jpg",
+          "resourceSize": 9926,
+          "startTime": 41284.526653,
+          "endTime": 41284.620011,
+          "responseReceivedTime": 41284.554405,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/613j3-3vOPL._SL150_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/613j3-3vOPL._SL150_.jpg",
+          "resourceSize": 11031,
+          "startTime": 41284.527988,
+          "endTime": 41284.618885,
+          "responseReceivedTime": 41284.552931,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/513ZupVDwWL._SL150_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/513ZupVDwWL._SL150_.jpg",
+          "resourceSize": 5774,
+          "startTime": 41284.528314,
+          "endTime": 41284.655905,
+          "responseReceivedTime": 41284.555721000004,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/61mJhMWAq8L._SL150_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/61mJhMWAq8L._SL150_.jpg",
+          "resourceSize": 11566,
+          "startTime": 41284.532419,
+          "endTime": 41284.65684,
+          "responseReceivedTime": 41284.556149000004,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/I/51lesmncSWL._SL150_.jpg": {
+          "url": "https://m.media-amazon.com/images/I/51lesmncSWL._SL150_.jpg",
+          "resourceSize": 7043,
+          "startTime": 41284.54414,
+          "endTime": 41284.663996,
+          "responseReceivedTime": 41284.575267,
+          "mimeType": "image/jpeg"
+        },
+        "https://m.media-amazon.com/images/G/01/Audible/en_US/images/creative/A4-190_DRTV_LP_DW_WhatDoIGet_Aryaupdateredo.jpg": {
+          "url": "https://m.media-amazon.com/images/G/01/Audible/en_US/images/creative/A4-190_DRTV_LP_DW_WhatDoIGet_Aryaupdateredo.jpg",
+          "resourceSize": 115893,
+          "startTime": 41284.544725,
+          "endTime": 41284.665282,
+          "responseReceivedTime": 41284.581035,
+          "mimeType": "image/jpeg"
+        },
+        "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1072575868/?value=0&label=S4qMCKnHogcQ_Oq4_wM&guid=ON&script=0&data=ecomm_pagetype%3DAnon%20HP%3Bmembertype%3DANON": {
+          "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1072575868/?value=0&label=S4qMCKnHogcQ_Oq4_wM&guid=ON&script=0&data=ecomm_pagetype%3DAnon%20HP%3Bmembertype%3DANON",
+          "resourceSize": 0,
+          "startTime": 41284.421915,
+          "endTime": 41284.577426,
+          "responseReceivedTime": 41284.511349,
+          "mimeType": "image/gif"
+        },
+        "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/827055970/?value=0&guid=ON&script=0&data=ecomm_pagetype%3DAnon%20HP%3Bmembertype%3DANON": {
+          "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/827055970/?value=0&guid=ON&script=0&data=ecomm_pagetype%3DAnon%20HP%3Bmembertype%3DANON",
+          "resourceSize": 0,
+          "startTime": 41284.481278,
+          "endTime": 41284.682612,
+          "responseReceivedTime": 41284.625687,
+          "mimeType": "image/gif"
+        },
+        "https://www.google.com/ads/user-lists/1072575868/?value=0&label=S4qMCKnHogcQ_Oq4_wM&guid=ON&script=0&data=ecomm_pagetype%3DAnon%20HP%3Bmembertype%3DANON&cdct=2&is_vtc=1&random=3527907415": {
+          "url": "https://www.google.com/ads/user-lists/1072575868/?value=0&label=S4qMCKnHogcQ_Oq4_wM&guid=ON&script=0&data=ecomm_pagetype%3DAnon%20HP%3Bmembertype%3DANON&cdct=2&is_vtc=1&random=3527907415",
+          "resourceSize": 42,
+          "startTime": 41284.579943,
+          "endTime": 41284.686096,
+          "responseReceivedTime": 41284.654768,
+          "mimeType": "image/gif"
+        },
+        "https://www.facebook.com/tr/?id=1525815360977208&ev=Purchase&dl=https%3A%2F%2Fwww.audible.com%2F&rl=&if=false&ts=1518636812882&cd[content_type]=product": {
+          "url": "https://www.facebook.com/tr/?id=1525815360977208&ev=Purchase&dl=https%3A%2F%2Fwww.audible.com%2F&rl=&if=false&ts=1518636812882&cd[content_type]=product",
+          "resourceSize": 44,
+          "startTime": 41284.597904,
+          "endTime": 41284.685318,
+          "responseReceivedTime": 41284.653761,
+          "mimeType": "image/gif"
+        },
+        "https://www.facebook.com/tr/?id=1525815360977208&ev=PixelInitialized&dl=https%3A%2F%2Fwww.audible.com%2F&rl=&if=false&ts=1518636812884": {
+          "url": "https://www.facebook.com/tr/?id=1525815360977208&ev=PixelInitialized&dl=https%3A%2F%2Fwww.audible.com%2F&rl=&if=false&ts=1518636812884",
+          "resourceSize": 44,
+          "startTime": 41284.599891,
+          "endTime": 41284.686898,
+          "responseReceivedTime": 41284.657308,
+          "mimeType": "image/gif"
+        },
+        "https://tracker.marinsm.com/tp?act=1&cid=mbgs6gv3z0&tz=5&ref=&page=https%3A%2F%2Fwww.audible.com%2F&uuid=7D769E25-D796-4BB5-B288-F2589FCC9FA6&rnd=1620527095": {
+          "url": "https://tracker.marinsm.com/tp?act=1&cid=mbgs6gv3z0&tz=5&ref=&page=https%3A%2F%2Fwww.audible.com%2F&uuid=7D769E25-D796-4BB5-B288-F2589FCC9FA6&rnd=1620527095",
+          "resourceSize": 36,
+          "startTime": 41284.609366,
+          "endTime": 41284.683127,
+          "responseReceivedTime": 41284.629167,
+          "mimeType": "image/gif"
+        },
+        "https://t.co/i/adsct?p_id=Twitter&p_user_id=0&txn_id=l5zpw&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0": {
+          "url": "https://t.co/i/adsct?p_id=Twitter&p_user_id=0&txn_id=l5zpw&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0",
+          "resourceSize": 43,
+          "startTime": 41284.67963,
+          "endTime": 41284.894365,
+          "responseReceivedTime": 41284.893620999996,
+          "mimeType": "image/gif"
+        },
+        "https://t.co/i/adsct?p_id=Twitter&p_user_id=0&txn_id=l5zpv&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0": {
+          "url": "https://t.co/i/adsct?p_id=Twitter&p_user_id=0&txn_id=l5zpv&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0",
+          "resourceSize": 43,
+          "startTime": 41284.682164,
+          "endTime": 41284.893135,
+          "responseReceivedTime": 41284.892501999995,
+          "mimeType": "image/gif"
+        },
+        "https://www.google.com/ads/user-lists/827055970/?value=0&guid=ON&script=0&data=ecomm_pagetype%3DAnon%20HP%3Bmembertype%3DANON&cdct=2&is_vtc=1&random=1382183825": {
+          "url": "https://www.google.com/ads/user-lists/827055970/?value=0&guid=ON&script=0&data=ecomm_pagetype%3DAnon%20HP%3Bmembertype%3DANON&cdct=2&is_vtc=1&random=1382183825",
+          "resourceSize": 42,
+          "startTime": 41284.682829,
+          "endTime": 41284.718656,
+          "responseReceivedTime": 41284.71169,
+          "mimeType": "image/gif"
+        },
+        "https://t.co/i/adsct?p_id=Twitter&p_user_id=0&txn_id=nysqr&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0": {
+          "url": "https://t.co/i/adsct?p_id=Twitter&p_user_id=0&txn_id=nysqr&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0",
+          "resourceSize": 43,
+          "startTime": 41284.689475,
+          "endTime": 41284.895457,
+          "responseReceivedTime": 41284.895008,
+          "mimeType": "image/gif"
+        },
+        "https://audible.sc.omtrdc.net/b/ss/audiblecomproduction/1/JS-2.1.0-D7QN/s44761248634510?AQB=1&pccr=true&vidn=2D4247860507F807-4000010920003F06&&ndh=1&pf=1&t=14%2F1%2F2018%2014%3A33%3A32%203%20300&D=D%3D&fid=078E2578928885F8-140A0954C98077DE&ce=UTF-8&ns=audible&cdp=2&pageName=Anon%20HP&g=https%3A%2F%2Fwww.audible.com%2F&events=event27&c2=n%2Fa&c4=GATEWAY&c5=ANONAUDW0378WS010202&v5=D%3Dc4&v7=D%3Dc5&c8=n%2Fa&v8=2%3A30PM&c9=n%2Fa&v13=D%3Dc2&v14=D%3Dc8&v15=D%3Dc9&c17=anon&c18=ANON&v38=D%3Dc17&v39=D%3Dc18&c42=First%20Visit&v42=not%20logged-in&c43=2%3A30PM&v43=D%3Dc48&c46=13&c48=desktop&c75=content%3A%20all%20pages&v87=no&v88=0&v95=secure&v96=Anon%20HP&v97=13&v98=D%3Dg&v99=New&s=1280x800&c=24&j=1.6&v=N&k=Y&bw=1200&bh=655&AQE=1": {
+          "url": "https://audible.sc.omtrdc.net/b/ss/audiblecomproduction/1/JS-2.1.0-D7QN/s44761248634510?AQB=1&pccr=true&vidn=2D4247860507F807-4000010920003F06&&ndh=1&pf=1&t=14%2F1%2F2018%2014%3A33%3A32%203%20300&D=D%3D&fid=078E2578928885F8-140A0954C98077DE&ce=UTF-8&ns=audible&cdp=2&pageName=Anon%20HP&g=https%3A%2F%2Fwww.audible.com%2F&events=event27&c2=n%2Fa&c4=GATEWAY&c5=ANONAUDW0378WS010202&v5=D%3Dc4&v7=D%3Dc5&c8=n%2Fa&v8=2%3A30PM&c9=n%2Fa&v13=D%3Dc2&v14=D%3Dc8&v15=D%3Dc9&c17=anon&c18=ANON&v38=D%3Dc17&v39=D%3Dc18&c42=First%20Visit&v42=not%20logged-in&c43=2%3A30PM&v43=D%3Dc48&c46=13&c48=desktop&c75=content%3A%20all%20pages&v87=no&v88=0&v95=secure&v96=Anon%20HP&v97=13&v98=D%3Dg&v99=New&s=1280x800&c=24&j=1.6&v=N&k=Y&bw=1200&bh=655&AQE=1",
+          "resourceSize": 43,
+          "startTime": 41284.706902,
+          "endTime": 41284.728904,
+          "responseReceivedTime": 41284.724214999995,
+          "mimeType": "image/gif"
+        },
+        "https://20776396p.rfihub.com/ca.gif?rb=31802&ca=20776396&_o=31802&_t=20776396&ra=355785595&cat=&pid=INSERT_PRODUCT_ID_VALUE_HERE&pname=&propname=Anon%20HP&revenue=&cust1=&cust2=acquisition&cust3=ANONAUDW0378WS010202&cust4=ANON&cust5=&cust6=&cust7=&cust8=false&cust9=&cust10=/home-page&cust11=2018-02-14%2019:33:31;u12=;u13=;u14=;u15=;u16=;u17=;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=3407538289181.48": {
+          "url": "https://20776396p.rfihub.com/ca.gif?rb=31802&ca=20776396&_o=31802&_t=20776396&ra=355785595&cat=&pid=INSERT_PRODUCT_ID_VALUE_HERE&pname=&propname=Anon%20HP&revenue=&cust1=&cust2=acquisition&cust3=ANONAUDW0378WS010202&cust4=ANON&cust5=&cust6=&cust7=&cust8=false&cust9=&cust10=/home-page&cust11=2018-02-14%2019:33:31;u12=;u13=;u14=;u15=;u16=;u17=;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=3407538289181.48",
+          "resourceSize": 42,
+          "startTime": 41284.711334,
+          "endTime": 41284.901051,
+          "responseReceivedTime": 41284.898319,
+          "mimeType": "image/gif"
+        },
+        "https://20776396p.rfihub.com/ca.gif?rb=31802&ca=20776396&_o=31802&_t=20776396&ra=2053641206&cat=&pid=INSERT_PRODUCT_ID_VALUE_HERE&pname=&propname=Anon%20HP&revenue=&cust1=&cust2=acquisition&cust3=ANONAUDW0378WS010202&cust4=ANON&cust5=&cust6=&cust7=&cust8=false&cust9=&cust10=/home-page&cust11=2018-02-14%2019:33:31;u12=;u13=;u14=;u15=;u16=;u17=;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=3407538289181.48": {
+          "url": "https://20776396p.rfihub.com/ca.gif?rb=31802&ca=20776396&_o=31802&_t=20776396&ra=2053641206&cat=&pid=INSERT_PRODUCT_ID_VALUE_HERE&pname=&propname=Anon%20HP&revenue=&cust1=&cust2=acquisition&cust3=ANONAUDW0378WS010202&cust4=ANON&cust5=&cust6=&cust7=&cust8=false&cust9=&cust10=/home-page&cust11=2018-02-14%2019:33:31;u12=;u13=;u14=;u15=;u16=;u17=;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=3407538289181.48",
+          "resourceSize": 42,
+          "startTime": 41284.897093,
+          "endTime": 41284.925635,
+          "responseReceivedTime": 41284.924337,
+          "mimeType": "image/gif"
+        },
+        "https://idsync.rlcdn.com/366738.gif?partner_uid=FK2X42YTDCQV": {
+          "url": "https://idsync.rlcdn.com/366738.gif?partner_uid=FK2X42YTDCQV",
+          "resourceSize": 0,
+          "startTime": 41284.778999,
+          "endTime": 41284.98668,
+          "responseReceivedTime": 41284.984535,
+          "mimeType": "image/gif"
+        },
+        "https://ad.doubleclick.net/ddm/activity/src=5433009;dc_pre=CMjYp_6SptkCFcUEDAodz6wFeA;type=invmedia;cat=un3a8nz2;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=1?": {
+          "url": "https://ad.doubleclick.net/ddm/activity/src=5433009;dc_pre=CMjYp_6SptkCFcUEDAodz6wFeA;type=invmedia;cat=un3a8nz2;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=1?",
+          "resourceSize": 42,
+          "startTime": 41284.863703,
+          "endTime": 41284.907636,
+          "responseReceivedTime": 41284.906998000006,
+          "mimeType": "image/gif"
+        },
+        "https://ad.doubleclick.net/ddm/activity/src=5433009;dc_pre=CN_Aq_6SptkCFVVYDAodLfELYw;type=invmedia;cat=un3a8nz2;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=1?": {
+          "url": "https://ad.doubleclick.net/ddm/activity/src=5433009;dc_pre=CN_Aq_6SptkCFVVYDAodLfELYw;type=invmedia;cat=un3a8nz2;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=1?",
+          "resourceSize": 42,
+          "startTime": 41284.927378,
+          "endTime": 41284.961218,
+          "responseReceivedTime": 41284.96065,
+          "mimeType": "image/gif"
+        },
+        "https://idsync.rlcdn.com/366738.gif?partner_uid=FK2X42YTDCQV&redirect=1": {
+          "url": "https://idsync.rlcdn.com/366738.gif?partner_uid=FK2X42YTDCQV&redirect=1",
+          "resourceSize": 43,
+          "startTime": 41284.98686,
+          "endTime": 41285.004829,
+          "responseReceivedTime": 41285.001875999995,
+          "mimeType": "image/gif"
+        },
+        "https://sp1.convertro.com/trax/idsync/aol/apid?mapped_id=UPeaeafd72-11bd-11e8-888a-061dd1382b78": {
+          "url": "https://sp1.convertro.com/trax/idsync/aol/apid?mapped_id=UPeaeafd72-11bd-11e8-888a-061dd1382b78",
+          "resourceSize": 43,
+          "startTime": 41285.00354,
+          "endTime": 41285.073452,
+          "responseReceivedTime": 41285.072433,
+          "mimeType": "image/gif"
+        },
+        "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/850677747/?random=407151418&cv=9&fst=*&num=1&label=UcYBCM-503EQ85_RlQM&bg=ffffff&hl=en&guid=ON&resp=GooglemKTybQhCsO&u_h=800&u_w=1280&u_ah=773&u_aw=1280&u_cd=24&u_his=2&u_tz=-300&u_java=false&u_nplug=4&u_nmime=5&frm=2&url=https://5164101.fls.doubleclick.net/activityi%3Bdc_pre%3DCMOaj_6SptkCFUhIDAodK2MAyQ%3Bsrc%3D5164101%3Btype%3Dacquis%3Bcat%3Daudib0%3Bu1%3D%3Bu2%3D%3Bu3%3DANON%3Bu4%3D%3Bu5%3D%3Bu6%3Dacquisition%3Bu7%3D/home-page%3Bu8%3DANONAUDW0378WS010202%3Bu9%3Dfalse%3Bu10%3DAnon%2520HP%3Bu11%3D2018-02-14%252019:33:31%3Bu12%3D%3Bu13%3D%3Bu14%3D%3Bu15%3D%3Bu16%3D%3Bu17%3D%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Bord%3D3407538289181.48%3F&ref=https://www.audible.com/&fmt=3&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&ocp_id=DY-EWv6wEcKMMLT9rpAE&sscte=1": {
+          "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/850677747/?random=407151418&cv=9&fst=*&num=1&label=UcYBCM-503EQ85_RlQM&bg=ffffff&hl=en&guid=ON&resp=GooglemKTybQhCsO&u_h=800&u_w=1280&u_ah=773&u_aw=1280&u_cd=24&u_his=2&u_tz=-300&u_java=false&u_nplug=4&u_nmime=5&frm=2&url=https://5164101.fls.doubleclick.net/activityi%3Bdc_pre%3DCMOaj_6SptkCFUhIDAodK2MAyQ%3Bsrc%3D5164101%3Btype%3Dacquis%3Bcat%3Daudib0%3Bu1%3D%3Bu2%3D%3Bu3%3DANON%3Bu4%3D%3Bu5%3D%3Bu6%3Dacquisition%3Bu7%3D/home-page%3Bu8%3DANONAUDW0378WS010202%3Bu9%3Dfalse%3Bu10%3DAnon%2520HP%3Bu11%3D2018-02-14%252019:33:31%3Bu12%3D%3Bu13%3D%3Bu14%3D%3Bu15%3D%3Bu16%3D%3Bu17%3D%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Bord%3D3407538289181.48%3F&ref=https://www.audible.com/&fmt=3&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&ocp_id=DY-EWv6wEcKMMLT9rpAE&sscte=1",
+          "resourceSize": 0,
+          "startTime": 41285.034985,
+          "endTime": 41285.099827,
+          "responseReceivedTime": 41285.098853999996,
+          "mimeType": "image/gif"
+        },
+        "https://ad.doubleclick.net/ddm/activity/src=4867410;dc_pre=CI2Csv6SptkCFUhCDAoddDQCTQ;type=invmedia;cat=z0q6gcwl;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=20180214193333?": {
+          "url": "https://ad.doubleclick.net/ddm/activity/src=4867410;dc_pre=CI2Csv6SptkCFUhCDAoddDQCTQ;type=invmedia;cat=z0q6gcwl;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=20180214193333?",
+          "resourceSize": 42,
+          "startTime": 41285.036908,
+          "endTime": 41285.214936,
+          "responseReceivedTime": 41285.214001,
+          "mimeType": "image/gif"
+        },
+        "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/850677747/?random=311650123&cv=9&fst=*&num=1&label=UcYBCM-503EQ85_RlQM&bg=ffffff&hl=en&guid=ON&resp=GooglemKTybQhCsO&u_h=800&u_w=1280&u_ah=773&u_aw=1280&u_cd=24&u_his=2&u_tz=-300&u_java=false&u_nplug=4&u_nmime=5&frm=2&url=https://5164101.fls.doubleclick.net/activityi%3Bdc_pre%3DCL_rkf6SptkCFVgHDAod32sAQQ%3Bsrc%3D5164101%3Btype%3Dacquis%3Bcat%3Daudib0%3Bu1%3D%3Bu2%3D%3Bu3%3DANON%3Bu4%3D%3Bu5%3D%3Bu6%3Dacquisition%3Bu7%3D/home-page%3Bu8%3DANONAUDW0378WS010202%3Bu9%3Dfalse%3Bu10%3DAnon%2520HP%3Bu11%3D2018-02-14%252019:33:31%3Bu12%3D%3Bu13%3D%3Bu14%3D%3Bu15%3D%3Bu16%3D%3Bu17%3D%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Bord%3D3407538289181.48%3F&ref=https://www.audible.com/&fmt=3&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&ocp_id=DY-EWvS_EoGkMbj1s9AB&sscte=1": {
+          "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/850677747/?random=311650123&cv=9&fst=*&num=1&label=UcYBCM-503EQ85_RlQM&bg=ffffff&hl=en&guid=ON&resp=GooglemKTybQhCsO&u_h=800&u_w=1280&u_ah=773&u_aw=1280&u_cd=24&u_his=2&u_tz=-300&u_java=false&u_nplug=4&u_nmime=5&frm=2&url=https://5164101.fls.doubleclick.net/activityi%3Bdc_pre%3DCL_rkf6SptkCFVgHDAod32sAQQ%3Bsrc%3D5164101%3Btype%3Dacquis%3Bcat%3Daudib0%3Bu1%3D%3Bu2%3D%3Bu3%3DANON%3Bu4%3D%3Bu5%3D%3Bu6%3Dacquisition%3Bu7%3D/home-page%3Bu8%3DANONAUDW0378WS010202%3Bu9%3Dfalse%3Bu10%3DAnon%2520HP%3Bu11%3D2018-02-14%252019:33:31%3Bu12%3D%3Bu13%3D%3Bu14%3D%3Bu15%3D%3Bu16%3D%3Bu17%3D%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Bord%3D3407538289181.48%3F&ref=https://www.audible.com/&fmt=3&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&ocp_id=DY-EWvS_EoGkMbj1s9AB&sscte=1",
+          "resourceSize": 0,
+          "startTime": 41285.054527,
+          "endTime": 41285.12742,
+          "responseReceivedTime": 41285.126322000004,
+          "mimeType": "image/gif"
+        },
+        "https://ad.doubleclick.net/ddm/activity/src=4867410;dc_pre=CLzks_6SptkCFUVJDAodJNIKHQ;type=invmedia;cat=z0q6gcwl;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=20180214193333?": {
+          "url": "https://ad.doubleclick.net/ddm/activity/src=4867410;dc_pre=CLzks_6SptkCFUVJDAodJNIKHQ;type=invmedia;cat=z0q6gcwl;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=20180214193333?",
+          "resourceSize": 42,
+          "startTime": 41285.063861,
+          "endTime": 41285.112097,
+          "responseReceivedTime": 41285.111359,
+          "mimeType": "image/gif"
+        },
+        "https://www.google.com/ads/conversion/850677747/?random=407151418&cv=9&fst=*&num=1&label=UcYBCM-503EQ85_RlQM&bg=ffffff&hl=en&guid=ON&resp=GooglemKTybQhCsO&u_h=800&u_w=1280&u_ah=773&u_aw=1280&u_cd=24&u_his=2&u_tz=-300&u_java=false&u_nplug=4&u_nmime=5&frm=2&url=https://5164101.fls.doubleclick.net/activityi%3Bdc_pre%3DCMOaj_6SptkCFUhIDAodK2MAyQ%3Bsrc%3D5164101%3Btype%3Dacquis%3Bcat%3Daudib0%3Bu1%3D%3Bu2%3D%3Bu3%3DANON%3Bu4%3D%3Bu5%3D%3Bu6%3Dacquisition%3Bu7%3D/home-page%3Bu8%3DANONAUDW0378WS010202%3Bu9%3Dfalse%3Bu10%3DAnon%2520HP%3Bu11%3D2018-02-14%252019:33:31%3Bu12%3D%3Bu13%3D%3Bu14%3D%3Bu15%3D%3Bu16%3D%3Bu17%3D%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Bord%3D3407538289181.48%3F&ref=https://www.audible.com/&fmt=3&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&sscte=1&cdct=2&is_vtc=1&ocp_id=DY-EWv6wEcKMMLT9rpAE&random=3029341015&resp=GooglemKTybQhCsO": {
+          "url": "https://www.google.com/ads/conversion/850677747/?random=407151418&cv=9&fst=*&num=1&label=UcYBCM-503EQ85_RlQM&bg=ffffff&hl=en&guid=ON&resp=GooglemKTybQhCsO&u_h=800&u_w=1280&u_ah=773&u_aw=1280&u_cd=24&u_his=2&u_tz=-300&u_java=false&u_nplug=4&u_nmime=5&frm=2&url=https://5164101.fls.doubleclick.net/activityi%3Bdc_pre%3DCMOaj_6SptkCFUhIDAodK2MAyQ%3Bsrc%3D5164101%3Btype%3Dacquis%3Bcat%3Daudib0%3Bu1%3D%3Bu2%3D%3Bu3%3DANON%3Bu4%3D%3Bu5%3D%3Bu6%3Dacquisition%3Bu7%3D/home-page%3Bu8%3DANONAUDW0378WS010202%3Bu9%3Dfalse%3Bu10%3DAnon%2520HP%3Bu11%3D2018-02-14%252019:33:31%3Bu12%3D%3Bu13%3D%3Bu14%3D%3Bu15%3D%3Bu16%3D%3Bu17%3D%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Bord%3D3407538289181.48%3F&ref=https://www.audible.com/&fmt=3&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&sscte=1&cdct=2&is_vtc=1&ocp_id=DY-EWv6wEcKMMLT9rpAE&random=3029341015&resp=GooglemKTybQhCsO",
+          "resourceSize": 42,
+          "startTime": 41285.100104,
+          "endTime": 41285.121837,
+          "responseReceivedTime": 41285.121259,
+          "mimeType": "image/gif"
+        },
+        "https://dsum-sec.casalemedia.com/rum?cm_dsp_id=39&external_user_id=bc9ec0c6-954d-4e36-831f-5db857e93ba6&expiration=1521228812&C=1": {
+          "url": "https://dsum-sec.casalemedia.com/rum?cm_dsp_id=39&external_user_id=bc9ec0c6-954d-4e36-831f-5db857e93ba6&expiration=1521228812&C=1",
+          "resourceSize": 43,
+          "startTime": 41285.109977,
+          "endTime": 41285.137104,
+          "responseReceivedTime": 41285.129706,
+          "mimeType": "image/gif"
+        },
+        "https://www.google.com/ads/conversion/850677747/?random=311650123&cv=9&fst=*&num=1&label=UcYBCM-503EQ85_RlQM&bg=ffffff&hl=en&guid=ON&resp=GooglemKTybQhCsO&u_h=800&u_w=1280&u_ah=773&u_aw=1280&u_cd=24&u_his=2&u_tz=-300&u_java=false&u_nplug=4&u_nmime=5&frm=2&url=https://5164101.fls.doubleclick.net/activityi%3Bdc_pre%3DCL_rkf6SptkCFVgHDAod32sAQQ%3Bsrc%3D5164101%3Btype%3Dacquis%3Bcat%3Daudib0%3Bu1%3D%3Bu2%3D%3Bu3%3DANON%3Bu4%3D%3Bu5%3D%3Bu6%3Dacquisition%3Bu7%3D/home-page%3Bu8%3DANONAUDW0378WS010202%3Bu9%3Dfalse%3Bu10%3DAnon%2520HP%3Bu11%3D2018-02-14%252019:33:31%3Bu12%3D%3Bu13%3D%3Bu14%3D%3Bu15%3D%3Bu16%3D%3Bu17%3D%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Bord%3D3407538289181.48%3F&ref=https://www.audible.com/&fmt=3&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&sscte=1&cdct=2&is_vtc=1&ocp_id=DY-EWvS_EoGkMbj1s9AB&random=4281935019&resp=GooglemKTybQhCsO": {
+          "url": "https://www.google.com/ads/conversion/850677747/?random=311650123&cv=9&fst=*&num=1&label=UcYBCM-503EQ85_RlQM&bg=ffffff&hl=en&guid=ON&resp=GooglemKTybQhCsO&u_h=800&u_w=1280&u_ah=773&u_aw=1280&u_cd=24&u_his=2&u_tz=-300&u_java=false&u_nplug=4&u_nmime=5&frm=2&url=https://5164101.fls.doubleclick.net/activityi%3Bdc_pre%3DCL_rkf6SptkCFVgHDAod32sAQQ%3Bsrc%3D5164101%3Btype%3Dacquis%3Bcat%3Daudib0%3Bu1%3D%3Bu2%3D%3Bu3%3DANON%3Bu4%3D%3Bu5%3D%3Bu6%3Dacquisition%3Bu7%3D/home-page%3Bu8%3DANONAUDW0378WS010202%3Bu9%3Dfalse%3Bu10%3DAnon%2520HP%3Bu11%3D2018-02-14%252019:33:31%3Bu12%3D%3Bu13%3D%3Bu14%3D%3Bu15%3D%3Bu16%3D%3Bu17%3D%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Bord%3D3407538289181.48%3F&ref=https://www.audible.com/&fmt=3&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&sscte=1&cdct=2&is_vtc=1&ocp_id=DY-EWvS_EoGkMbj1s9AB&random=4281935019&resp=GooglemKTybQhCsO",
+          "resourceSize": 42,
+          "startTime": 41285.127623,
+          "endTime": 41285.150088,
+          "responseReceivedTime": 41285.149489,
+          "mimeType": "image/gif"
+        },
+        "https://dsum-sec.casalemedia.com/rum?cm_dsp_id=39&external_user_id=b7d1885a-c8b2-47ed-86b0-0c914a72c827&expiration=1521228813": {
+          "url": "https://dsum-sec.casalemedia.com/rum?cm_dsp_id=39&external_user_id=b7d1885a-c8b2-47ed-86b0-0c914a72c827&expiration=1521228813",
+          "resourceSize": 43,
+          "startTime": 41285.268436,
+          "endTime": 41285.292835,
+          "responseReceivedTime": 41285.291132,
+          "mimeType": "image/gif"
+        },
+        "https://www.storygize.net/e/20a8d47f-3b25-49f3-acfc-0564fc0d6b69/N4IghgxgLglgbgUxALgGZgDYGcEBoQwAmK4CAzGQEwCs1ADALQIAcYlDALAJwJgPOsuDAOwdCZYWEIQARsISoQ+WAFskyAIzUNzAGxldzDWS7VK+GQgDmMAHYotO-YeOnzIBLatgrCYsjp8VAB7CABXLBQAbQBdfEhYRABhAAswLz8AUURbKEjkWPwIDBgIAGt8wpAVYMRKuJAsCAAnYIxsaIbCGDVbLBhgvujQKAdtPQMjEzMigHUUQJAIAAkF-AAHeYCN1YCAXwaYLEyVdagATxQoZrC8EFUEAHlbAAUfdUWjgElbL9RmsBqK43O6efyOCYuaYcfAqMAAD0yXnevSgACVeBAUn4UOhsHc4fCACo9J6vd4YyDY-x4nB7IA": {
+          "url": "https://www.storygize.net/e/20a8d47f-3b25-49f3-acfc-0564fc0d6b69/N4IghgxgLglgbgUxALgGZgDYGcEBoQwAmK4CAzGQEwCs1ADALQIAcYlDALAJwJgPOsuDAOwdCZYWEIQARsISoQ+WAFskyAIzUNzAGxldzDWS7VK+GQgDmMAHYotO-YeOnzIBLatgrCYsjp8VAB7CABXLBQAbQBdfEhYRABhAAswLz8AUURbKEjkWPwIDBgIAGt8wpAVYMRKuJAsCAAnYIxsaIbCGDVbLBhgvujQKAdtPQMjEzMigHUUQJAIAAkF-AAHeYCN1YCAXwaYLEyVdagATxQoZrC8EFUEAHlbAAUfdUWjgElbL9RmsBqK43O6efyOCYuaYcfAqMAAD0yXnevSgACVeBAUn4UOhsHc4fCACo9J6vd4YyDY-x4nB7IA",
+          "resourceSize": 35,
+          "startTime": 41285.677167,
+          "endTime": 41285.78925,
+          "responseReceivedTime": 41285.788422000005,
+          "mimeType": "image/gif"
+        },
+        "https://a.tribalfusion.com/i.match?p=b6&u=CAESEJlGhGb0DlwHmeDL1zFNg4M&google_cver=1&google_ula=2786954,0": {
+          "url": "https://a.tribalfusion.com/i.match?p=b6&u=CAESEJlGhGb0DlwHmeDL1zFNg4M&google_cver=1&google_ula=2786954,0",
+          "resourceSize": 43,
+          "startTime": 41285.797291,
+          "endTime": 41285.882422,
+          "responseReceivedTime": 41285.879803,
+          "mimeType": "image/gif"
+        },
+        "https://www.storygize.net/e/20a8d47f-3b25-49f3-acfc-0564fc0d6b69/N4IghgxgLglgbgUxALgGZgDYGcEBoQwAmKIAnAEYCMAHKaQGxgC0ADKQCz1Ps2FMWlm9BKQQAmMahZiEEeiHywAtkmSUArDXoBmetUrsWLSvnIIA5jAB2KDVt37Dx-Aivmw5hMWQt8qAPYQAK5YKADaALr4kLCIAMIAFmBuXgCiiFZQociR+BAYMBAA1tm5IEr+iKVRIFgQAE7+GNjhNYQwKlZYMP5d4aBQtprUOnoGRiYgEADqKL5TABJz+AAOsz6rSz4AvjUwWKlKK1AAnihQ9UF4IMoIAPJWAAoeqvP7AJJW76j1YCrnl2urm8dhGDnG0nwSjAAA9Um4Xp0oAAlBCQBJeFDobDXaEwgAqHXuTxeqPRmLQmBw2yAA": {
+          "url": "https://www.storygize.net/e/20a8d47f-3b25-49f3-acfc-0564fc0d6b69/N4IghgxgLglgbgUxALgGZgDYGcEBoQwAmKIAnAEYCMAHKaQGxgC0ADKQCz1Ps2FMWlm9BKQQAmMahZiEEeiHywAtkmSUArDXoBmetUrsWLSvnIIA5jAB2KDVt37Dx-Aivmw5hMWQt8qAPYQAK5YKADaALr4kLCIAMIAFmBuXgCiiFZQociR+BAYMBAA1tm5IEr+iKVRIFgQAE7+GNjhNYQwKlZYMP5d4aBQtprUOnoGRiYgEADqKL5TABJz+AAOsz6rSz4AvjUwWKlKK1AAnihQ9UF4IMoIAPJWAAoeqvP7AJJW76j1YCrnl2urm8dhGDnG0nwSjAAA9Um4Xp0oAAlBCQBJeFDobDXaEwgAqHXuTxeqPRmLQmBw2yAA",
+          "resourceSize": 35,
+          "startTime": 41285.72568,
+          "endTime": 41285.95534,
+          "responseReceivedTime": 41285.953055000005,
+          "mimeType": "image/gif"
+        },
+        "https://idsync.rlcdn.com/448836.gif?partner_uid=6de60a42-2cc9-48af-8c23-b77adf625e77": {
+          "url": "https://idsync.rlcdn.com/448836.gif?partner_uid=6de60a42-2cc9-48af-8c23-b77adf625e77",
+          "resourceSize": 0,
+          "startTime": 41285.872772,
+          "endTime": 41285.914791,
+          "responseReceivedTime": 41285.890903,
+          "mimeType": "image/gif"
+        },
+        "https://dmp.adblade.com/srv/sync/alias/?cId=StoryGize;uId=6de60a42-2cc9-48af-8c23-b77adf625e77": {
+          "url": "https://dmp.adblade.com/srv/sync/alias/?cId=StoryGize;uId=6de60a42-2cc9-48af-8c23-b77adf625e77",
+          "resourceSize": 37,
+          "startTime": 41285.874088,
+          "endTime": 41285.946274,
+          "responseReceivedTime": 41285.94382,
+          "mimeType": "image/gif"
+        },
+        "https://jadserve.postrelease.com/suid/1009?vk=6de60a42-2cc9-48af-8c23-b77adf625e77": {
+          "url": "https://jadserve.postrelease.com/suid/1009?vk=6de60a42-2cc9-48af-8c23-b77adf625e77",
+          "resourceSize": 43,
+          "startTime": 41285.874859,
+          "endTime": 41285.949377,
+          "responseReceivedTime": 41285.948804,
+          "mimeType": "image/gif"
+        },
+        "https://match.sharethrough.com/sync/v1?source_id=m3k4T1aBLLPMpeMdFP9tJTiB&source_user_id=6de60a42-2cc9-48af-8c23-b77adf625e77": {
+          "url": "https://match.sharethrough.com/sync/v1?source_id=m3k4T1aBLLPMpeMdFP9tJTiB&source_user_id=6de60a42-2cc9-48af-8c23-b77adf625e77",
+          "resourceSize": 68,
+          "startTime": 41285.881972,
+          "endTime": 41285.918772,
+          "responseReceivedTime": 41285.899893,
+          "mimeType": "image/png"
+        },
+        "https://www.storygize.net/gadx": {
+          "url": "https://www.storygize.net/gadx",
+          "resourceSize": 0,
+          "startTime": 41285.92005,
+          "endTime": 41286.057198,
+          "responseReceivedTime": 41286.056813,
+          "mimeType": "image/gif"
+        },
+        "https://eb2.3lift.com/xuid?ld=1&mid=3396&xuid=6de60a42-2cc9-48af-8c23-b77adf625e77&dongle=c7e1": {
+          "url": "https://eb2.3lift.com/xuid?ld=1&mid=3396&xuid=6de60a42-2cc9-48af-8c23-b77adf625e77&dongle=c7e1",
+          "resourceSize": 37,
+          "startTime": 41285.850108,
+          "endTime": 41285.869822,
+          "responseReceivedTime": 41285.863462,
+          "mimeType": "image/gif"
+        },
+        "https://eb2.3lift.com/xuid?mid=3396&xuid=6de60a42-2cc9-48af-8c23-b77adf625e77&dongle=c7e1": {
+          "url": "https://eb2.3lift.com/xuid?mid=3396&xuid=6de60a42-2cc9-48af-8c23-b77adf625e77&dongle=c7e1",
+          "resourceSize": 37,
+          "startTime": 41285.87448,
+          "endTime": 41285.91543,
+          "responseReceivedTime": 41285.891412,
+          "mimeType": "image/gif"
+        },
+        "https://www.audible.com/uedata/uedata?ld&v=0.1484.0&id=XF43PSFGQ9GGEDX02GD2&sw=1280&sh=800&vw=1185&vh=655&m=1&sc=XF43PSFGQ9GGEDX02GD2&ue=4&bb=101&af=274&cf=625&be=665&pc=2614&tc=-211&na_=-211&ul_=-1518636811556&_ul=-1518636811556&rd_=-206&_rd=-13&fe_=-13&lk_=-13&_lk=-13&co_=-13&_co=-13&sc_=-1518636811556&rq_=-120&rs_=-19&_rs=327&dl_=-9&di_=918&de_=918&_de=932&_dc=2613&ld_=2613&_ld=-1518636811556&ntd=-1&ty=0&rc=1&hob=1&hoe=5&ld=2615&t=1518636814171&ctb=1&rt=cf:54-0-2-50-2-0-1_af:8-0-2-4-2-0-1_ld:146-32-2-105-18-0-0&csmtags=aui|aui:aui_build_date:3.18.1-2018-02-01|fls-na&viz=visible:2&pty=Gateway&spty=Gateway&pti=undefined&tid=XF43PSFGQ9GGEDX02GD2&aftb=1": {
+          "url": "https://www.audible.com/uedata/uedata?ld&v=0.1484.0&id=XF43PSFGQ9GGEDX02GD2&sw=1280&sh=800&vw=1185&vh=655&m=1&sc=XF43PSFGQ9GGEDX02GD2&ue=4&bb=101&af=274&cf=625&be=665&pc=2614&tc=-211&na_=-211&ul_=-1518636811556&_ul=-1518636811556&rd_=-206&_rd=-13&fe_=-13&lk_=-13&_lk=-13&co_=-13&_co=-13&sc_=-1518636811556&rq_=-120&rs_=-19&_rs=327&dl_=-9&di_=918&de_=918&_de=932&_dc=2613&ld_=2613&_ld=-1518636811556&ntd=-1&ty=0&rc=1&hob=1&hoe=5&ld=2615&t=1518636814171&ctb=1&rt=cf:54-0-2-50-2-0-1_af:8-0-2-4-2-0-1_ld:146-32-2-105-18-0-0&csmtags=aui|aui:aui_build_date:3.18.1-2018-02-01|fls-na&viz=visible:2&pty=Gateway&spty=Gateway&pti=undefined&tid=XF43PSFGQ9GGEDX02GD2&aftb=1",
+          "resourceSize": 0,
+          "startTime": 41285.894528,
+          "endTime": 41285.945106,
+          "responseReceivedTime": 41285.944365999996,
+          "mimeType": "image/gif"
+        },
+        "https://sp.analytics.yahoo.com/spp.pl?a=10000&.yp=10043181": {
+          "url": "https://sp.analytics.yahoo.com/spp.pl?a=10000&.yp=10043181",
+          "resourceSize": 43,
+          "startTime": 41286.015487,
+          "endTime": 41286.058656,
+          "responseReceivedTime": 41286.057991999995,
+          "mimeType": "image/gif"
+        },
+        "https://idsync.rlcdn.com/362248.gif?partner_uid=82861185467066154352002643869010801536": {
+          "url": "https://idsync.rlcdn.com/362248.gif?partner_uid=82861185467066154352002643869010801536",
+          "resourceSize": 43,
+          "startTime": 41285.918641,
+          "endTime": 41285.956473,
+          "responseReceivedTime": 41285.953951999996,
+          "mimeType": "image/gif"
+        },
+        "https://www.audible.com/favicon.ico": {
+          "url": "https://www.audible.com/favicon.ico",
+          "resourceSize": 16678,
+          "startTime": 41285.92718,
+          "endTime": 41285.96309,
+          "responseReceivedTime": 41285.961056,
+          "mimeType": "image/x-icon"
+        },
+        "https://www.audible.com/uedata/uedata?at&v=0.1484.0&id=XF43PSFGQ9GGEDX02GD2&m=1&sc=adblk_no&pc=2699&at=2699&t=1518636814255&csmtags=adblk_no&pty=Gateway&spty=Gateway&pti=undefined&tid=XF43PSFGQ9GGEDX02GD2&aftb=1": {
+          "url": "https://www.audible.com/uedata/uedata?at&v=0.1484.0&id=XF43PSFGQ9GGEDX02GD2&m=1&sc=adblk_no&pc=2699&at=2699&t=1518636814255&csmtags=adblk_no&pty=Gateway&spty=Gateway&pti=undefined&tid=XF43PSFGQ9GGEDX02GD2&aftb=1",
+          "resourceSize": 0,
+          "startTime": 41285.970433,
+          "endTime": 41286.015983,
+          "responseReceivedTime": 41286.014817,
+          "mimeType": "image/gif"
+        },
+        "https://sync.adaptv.advertising.com/sync?type=gif&key=thetradedesk&uid=b7d1885a-c8b2-47ed-86b0-0c914a72c827": {
+          "url": "https://sync.adaptv.advertising.com/sync?type=gif&key=thetradedesk&uid=b7d1885a-c8b2-47ed-86b0-0c914a72c827",
+          "resourceSize": 42,
+          "startTime": 41286.176895,
+          "endTime": 41286.245472,
+          "responseReceivedTime": 41286.243997,
+          "mimeType": "image/gif"
+        },
+        "https://www.storygize.net/e/20a8d47f-3b25-49f3-acfc-0564fc0d6b69/N4IghgxgLglgbgUxALgGZgDYGcEBoQwAmK4CAzGQEwCs1ADALQIAcYlDALAJwJgPOsuDAOwdCZYWEIQARsISoQ+WAFskyAIzUNzAGxldzHV0P4ZCAOYwAdii079hjWS7VK+BNYtgLCYsjp8VAB7CABXLBQAbQBdfEhYRABhAAswLz8AUURrKEjkWPwIDBgIAGt8wpAVYMRKuJAsCAAnYIxsaIbCGDVrLBhgvujQKDttPQMjFzcigHUUQJAIAAkF-AAHeYCN1YCAXwaYLEyVdagATxR0bDwQVQQAeWsABR91ei18I4BJa2-UZpgNQoKDNMK3Tz+ewTJzMExcfAqMAAD0yXjevSgACVeBAUn4rpgcIiUQAVHqPF5vHGQfH+a44PZAA": {
+          "url": "https://www.storygize.net/e/20a8d47f-3b25-49f3-acfc-0564fc0d6b69/N4IghgxgLglgbgUxALgGZgDYGcEBoQwAmK4CAzGQEwCs1ADALQIAcYlDALAJwJgPOsuDAOwdCZYWEIQARsISoQ+WAFskyAIzUNzAGxldzHV0P4ZCAOYwAdii079hjWS7VK+BNYtgLCYsjp8VAB7CABXLBQAbQBdfEhYRABhAAswLz8AUURrKEjkWPwIDBgIAGt8wpAVYMRKuJAsCAAnYIxsaIbCGDVrLBhgvujQKDttPQMjFzcigHUUQJAIAAkF-AAHeYCN1YCAXwaYLEyVdagATxR0bDwQVQQAeWsABR91ei18I4BJa2-UZpgNQoKDNMK3Tz+ewTJzMExcfAqMAAD0yXjevSgACVeBAUn4rpgcIiUQAVHqPF5vHGQfH+a44PZAA",
+          "resourceSize": 35,
+          "startTime": 41290.686335,
+          "endTime": 41290.780407,
+          "responseReceivedTime": 41290.778934,
+          "mimeType": "image/gif"
+        },
+        "https://www.storygize.net/e/20a8d47f-3b25-49f3-acfc-0564fc0d6b69/N4IghgxgLglgbgUxALgGZgDYGcEBoQwAmKIAnAEYCMAHKaQGxgC0ADKQCz1Ps2FMWlm9BKQQAmMahZiEEeiHywAtkmSUArDXoBmetUqkWG-OQQBzGADsUGrbv3sWR-AktmwZhMWQt8qAPYQAK5YKADaALr4kLCIAMIAFmBuXgCiiJZQociR+BAYMBAA1tm5IEr+iKVRIFgQAE7+GNjhNYQwKpZYMP5d4aBQNprUOnqUjs4gEADqKL5TABJz+AAOsz6rSz4AvjUwWKlKK1AAnijo2HggyggA8pYACh6q6kbs+PsAkpafqPVgKhQUHqQSurm8thG9gMRno+CUYAAHqk3M9OlAAEoISAJLznTA4eFIgAqHTuj2eWJxeLQBIQ2yAA": {
+          "url": "https://www.storygize.net/e/20a8d47f-3b25-49f3-acfc-0564fc0d6b69/N4IghgxgLglgbgUxALgGZgDYGcEBoQwAmKIAnAEYCMAHKaQGxgC0ADKQCz1Ps2FMWlm9BKQQAmMahZiEEeiHywAtkmSUArDXoBmetUqkWG-OQQBzGADsUGrbv3sWR-AktmwZhMWQt8qAPYQAK5YKADaALr4kLCIAMIAFmBuXgCiiJZQociR+BAYMBAA1tm5IEr+iKVRIFgQAE7+GNjhNYQwKpZYMP5d4aBQNprUOnqUjs4gEADqKL5TABJz+AAOsz6rSz4AvjUwWKlKK1AAnijo2HggyggA8pYACh6q6kbs+PsAkpafqPVgKhQUHqQSurm8thG9gMRno+CUYAAHqk3M9OlAAEoISAJLznTA4eFIgAqHTuj2eWJxeLQBIQ2yAA",
+          "resourceSize": 35,
+          "startTime": 41290.734243,
+          "endTime": 41290.849573,
+          "responseReceivedTime": 41290.84809,
+          "mimeType": "image/gif"
+        }
+      },
+      "scoringMode": "binary",
+      "name": "audible-image-size-audit",
+      "description": "lighthouse sucks no documentation anywhere",
+      "helpText": "lighthouse sucks no documentation anywhere",
+      "details": {
+        "numImages": 141,
+        "totalImageSize": 803605,
+        "numOffendingEntries": 3,
+        "offendingEntries": [
+          {
+            "url": "https://m.media-amazon.com/images/G/01/Audible/en_US/images/creative/A4-190_DRTV_LP_DW_Hero_Arya_2.jpg",
+            "resourceSize": 134036,
+            "startTime": 41283.372311,
+            "endTime": 41283.499423,
+            "responseReceivedTime": 41283.403185999996,
+            "mimeType": "image/jpeg"
+          },
+          {
+            "url": "https://m.media-amazon.com/images/G/01/Audible/en_US/images/creative/landing/A4-181_PresidentsDay_ANON_SkinnyBanner_DT_V2.jpg",
+            "resourceSize": 78194,
+            "startTime": 41283.372549,
+            "endTime": 41283.506365,
+            "responseReceivedTime": 41283.411185,
+            "mimeType": "image/jpeg"
+          },
+          {
+            "url": "https://m.media-amazon.com/images/G/01/Audible/en_US/images/creative/A4-190_DRTV_LP_DW_WhatDoIGet_Aryaupdateredo.jpg",
+            "resourceSize": 115893,
+            "startTime": 41284.544725,
+            "endTime": 41284.665282,
+            "responseReceivedTime": 41284.581035,
+            "mimeType": "image/jpeg"
+          }
+        ]
+      }
+    }
+  },
+  "runtimeConfig": {
+    "environment": [
+      {
+        "name": "Device Emulation",
+        "enabled": false,
+        "description": "Nexus 5X"
+      },
+      {
+        "name": "Network Throttling",
+        "enabled": false,
+        "description": "562.5ms RTT, 1.4Mbps down, 0.7Mbps up"
+      },
+      {
+        "name": "CPU Throttling",
+        "enabled": false,
+        "description": "4x slowdown"
+      }
+    ],
+    "blockedUrlPatterns": [],
+    "extraHeaders": {}
+  },
+  "score": 0,
+  "reportCategories": [],
+  "timing": {
+    "total": 9787
+  }
+}

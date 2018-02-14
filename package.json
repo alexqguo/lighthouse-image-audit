@@ -1,0 +1,15 @@
+{
+    "name": "lighthouse-test",
+    "version": "1.0.0",
+    "description": "",
+    "main": "customConfig.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "alexguo",
+    "license": "",
+    "dependencies": {
+        "chrome-launcher": "^0.10.2",
+        "lighthouse": "^2.9.1"
+    }
+}
